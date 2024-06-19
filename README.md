@@ -18,5 +18,7 @@ Dynamic Content: Utilizes APIs to fetch the latest data on movies and TV shows.
 
 # Technologies Used
 JavaScript: For client-side scripting. (59.8%)
+
 SCSS: For styling the web pages. (39.2%)
+
 Other: (1.0%)
